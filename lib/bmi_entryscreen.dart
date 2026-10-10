@@ -239,6 +239,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Text("Calculate BMI"),
               ),
             ),
+            SizedBox(height: 5),
           ],
         ),
       ),
